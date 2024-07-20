@@ -8,7 +8,7 @@
 
 <main>
     <div class="titulosec">
-        <span>Novedades</span>
+        <span>estamos haciendo una prueba</span>
     </div>
     <section class="novedades">
             <div class="novedades-div">
