@@ -8,7 +8,7 @@
 
 <main>
     <div class="titulosec">
-        <span>ahora probamos en la lapto</span>
+        <span>Novedades</span>
     </div>
     <section class="novedades">
             <div class="novedades-div">
