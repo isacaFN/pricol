@@ -11,7 +11,7 @@
         <span>Novedades</span>
     </div>
     <section class="novedades">
-            <div class="novedades-div">
+            <div id="tennis" class="novedades-div">
                 <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b29cb39126f5428fbb0f234ac042edc4_9366/Zapatillas_ADIZERO_ADIOS_PRO_3_Blanco_IG6440_HM1.jpg">
                 <p class="titulozap">Adizero Sl</p>
                 <p>zapatillas running para Dama</p>
