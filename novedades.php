@@ -11,28 +11,29 @@
         <span>Novedades</span>
     </div>
     <section class="novedades">
-            <div id="tennis" class="novedades-div">
-                <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b29cb39126f5428fbb0f234ac042edc4_9366/Zapatillas_ADIZERO_ADIOS_PRO_3_Blanco_IG6440_HM1.jpg">
-                <p class="titulozap">Adizero Sl</p>
-                <p>zapatillas running para Dama</p>
-                <p class="preciozap">$59.990</p>
-            </div>
-
             <div class="novedades-div">
-                <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9830b8efb0fe46bea873a7c8f1f765db_9366/Zapatillas_Adizero_Boston_12_Beige_IG3325_HM1.jpg">
-                <p class="titulozap">Adizero Boston 12</p>
-                <p>zapatillas running </p>
-                <p class="preciozap">$149.990</p>
-            </div>
+                    <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/01c08954e81e412f98e70706272c579c_9366/Zapatillas_Ultraboost_5_Blanco_ID8840_HM1.jpg">
+                    <p class="titulozap">Adizero Sl</p>
+                    <p>zapatillas running para Dama</p>
+                    <p class="preciozap">$59.990</p>
+                </div>
 
-            <div class="novedades-div">
+            <div class="novedades-div" >
+                    <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9830b8efb0fe46bea873a7c8f1f765db_9366/Zapatillas_Adizero_Boston_12_Beige_IG3325_HM1.jpg">
+                    <p class="titulozap">Adizero Boston 12</p>
+                    <p>zapatillas running </p>
+                    <p class="preciozap">$149.990</p>
+            </div>
+            
+
+            <div class="novedades-div" >
                 <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d15da605b2884e79a4961f9601aed179_9366/Zapatillas_Adizero_Takumi_Sen_10_Beige_IG8208_HM1.jpg">
                 <p class="titulozap">Adizero takumi sen 10</p>
                 <p>zapatillas running</p>
                 <p class="preciozap">$169.990</p>
             </div>
 
-            <div class="novedades-div">
+            <div class="novedades-div" >
                 <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23c59df68d97458eb77cbd33df11245a_9366/ADIZERO_SL_W_Negro_IG8197_HM1.jpg">
                 <p class="titulozap">Adizero SLW</p>
                 <p>zapatillas running para Dama</p>

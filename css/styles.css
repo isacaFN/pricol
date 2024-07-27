@@ -506,15 +506,13 @@ h6{
 
 .novedades-div{
     margin-top: 10px;
+    padding: 10px;
+    position: relative;
+
 }
 
 .novedades-div p{
     margin: 0px;
-}
-
-.novedades-div:hover{
-    outline: var(--negro) solid 1px; 
-    cursor: pointer;
 }
 
 .titulozap{
@@ -536,3 +534,40 @@ h6{
     font-size: 30px;
     font-weight: bold;
 }
+.novedades-hover{
+
+    cursor: pointer;
+
+    -webkit-box-shadow: 0px 0px 8px 1px rgba(107,99,99,0.6);
+    -moz-box-shadow: 0px 0px 8px 1px rgba(107,99,99,0.6);
+    box-shadow: 0px 0px 8px 1px rgba(107,99,99,0.6);
+}
+
+.tallas-contenedor{
+    display: flex;
+    column-gap: 5px;
+    margin: 0 5px;
+    position: absolute;
+    z-index: 99;
+    bottom: -70px;
+    background-color: var(--blanco);
+}
+
+.tallas-contenedor p{
+    outline: var(--gris) solid 1px; 
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.selectalla{
+    font-weight: 700;
+    padding: 10px 0;
+    z-index: 99;
+    position: absolute;
+    bottom: -25px;
+    background-color: var(--blanco);
+}
+
