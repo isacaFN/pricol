@@ -11,7 +11,7 @@
         <span>Novedades</span>
     </div>
     <section class="novedades">
-            <div class="novedades-div">
+                <div class="novedades-div">
                     <img class="imgnovedades" src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/01c08954e81e412f98e70706272c579c_9366/Zapatillas_Ultraboost_5_Blanco_ID8840_HM1.jpg">
                     <p class="titulozap">Adizero Sl</p>
                     <p>zapatillas running para Dama</p>
